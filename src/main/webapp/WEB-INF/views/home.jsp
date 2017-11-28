@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  Spring
+	Hello world!
 </h1>
 
 <img alt="" width="150" height="150" src="./resources/images/Chrysanthemum.jpg">
